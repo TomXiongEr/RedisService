@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.tomxiong.config.RedisConfiguration$DataJedisProperties",
+      "name": "",
+      "type": "com.tomxiong.config.RedisConfiguration$DataJedisProperties"
+    }
+  ],
+  "properties": []
+}

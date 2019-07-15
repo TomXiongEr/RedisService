@@ -1,0 +1,13 @@
+server:
+  port: 8083
+  jsp-servlet:
+    class-name: org.apache.jasper.servlet.JspServlet
+  error:
+    whitelabel:
+      enabled: true
+spring:
+  application:
+    name: RedisService
+  cloud:
+    client:
+      ipAddress: 192.168.16.111
